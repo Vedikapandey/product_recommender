@@ -1,9 +1,9 @@
 # product_recommender
-Overview of the Project
- The E-commerce Product Recommender system implemented in this research mixes LLM-powered explanations with conventional recommendation logic.  The primary goal is to give consumers a list of suggested products along with a natural language explanation that addresses the query, "Why this product?"
+Overview of the Project:
+The E-commerce Product Recommender system implemented in this research mixes LLM-powered explanations with conventional recommendation logic.  The primary goal is to give consumers a list of suggested products along with a natural language explanation that addresses the query, "Why this product?"
 
 
- Qualities
+ Qualities:
 
  Product Suggestion  Backend API: A fundamental service for producing product recommendations.
 
